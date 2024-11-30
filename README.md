@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:30.11.2024
+## Register Number:24900105
+## Name:ANS NERLING EMIMA S
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -10,16 +10,53 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
+1.Alumni Registration and Profile Management:
+
+Web and Mobile Access: Simplified sign-up and profile management on both web and mobile platforms. Alumni can update their professional and personal information, maintaining a dynamic profile that evolves over time.
+
+2.Donation Portal:
+
+Easy Contribution Process: Secure payment gateway integrated into both platforms, allowing alumni to make financial contributions to the college’s initiatives and development projects.
+Fund Transparency: Alumni can track where their donations are being allocated (scholarships, infrastructure projects, faculty development, etc.), enhancing trust in the institution’s financial integrity.
+
+3.Networking Hub:
+
+Professional Networking: Alumni can connect with others based on shared fields of study, industries, geographic locations, or interests, promoting both personal and professional networking.
+Mentorship Opportunities: Alumni can mentor younger graduates or students, offering career advice, job placement help, and industry insights.
+
+4.Job Portal:
+
+Job Postings: Companies and organizations can post job openings targeted specifically at alumni, and alumni can easily search for opportunities in their industry or field.
+Resume Sharing and Recruitment: Alumni can upload resumes, making it easier for potential employers within the network to find talent from the community.
+
+5.Success Story Tracking:
+
+Spotlighting Achievements: Alumni can submit their success stories, including career milestones, entrepreneurial ventures, or significant contributions to society.
+Social Media Integration: Success stories can be shared on social media or internal forums to inspire the broader alumni community.
 
 
-## Proposed Solution / Architecture Diagram
+
+## Proposed Solution / Architecture Diagra
+
+![Screenshot 2024-11-30 163730](https://github.com/user-attachments/assets/aea0e020-3e0c-4b58-bcd6-e0417af3841b)
 
 
 ## Use Cases
 
+![Screenshot 2024-11-30 185804](https://github.com/user-attachments/assets/2f4a0e52-0864-438d-83e5-fb5a52fffa67)
+
 
 ## Technology Stack
-
+1.React.js
+2.Vue.js
+3.Ruby on Rails
+4.MongoDB
+5.Mixpanel
+6.GraphQL
 
 ## Dependencies
+1.Docker:For containerization.
+2.PM2:For process management.
+3.CI/CD Tools:Plugins for GitHub Actions,Jenkins or CircleCl
+
 

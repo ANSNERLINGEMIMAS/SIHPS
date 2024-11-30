@@ -92,10 +92,14 @@ Interactive Input: Collect alumni feedback to refine association activities and 
 
 ## Technology Stack
 1.Vue.js
+
 2.MongoDB
+
 3.GraphQL
 
 ## Dependencies
 1.Docker: For Containerization
+
 2.PM2:For process management
+
 3.CI/CD Tools:Plugins for GitHub Actions,Jenkins,or CircleCl

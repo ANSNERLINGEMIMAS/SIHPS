@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:30.11.2024
+## Register Number:24900105
+## Name:ANS NERLING EMIMA S
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -10,16 +10,92 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
+The proposed Alumni Association platform for the Government Engineering College represents a forward-thinking initiative to foster stronger ties between alumni and their alma mater. Below is a concise overview of the key features, challenges addressed, and anticipated outcomes of this platform:
+
+
+---
+
+Key Features
+
+1. Alumni Registration
+
+Web & Mobile: Simple sign-up process with profile management to keep alumni information up-to-date.
+
+Enables lifelong connections with peers and the institution.
+
+
+
+2. Donation Portal
+
+Secure Transactions: Easy-to-use donation tools encouraging alumni support for scholarships, infrastructure, and events.
+
+
+
+3. Networking Hub
+
+Tools for connecting alumni by interests, professions, or location, promoting mentorship and professional collaborations.
+
+
+
+4. Job Portal
+
+Comprehensive Career Support: Features to post job openings, explore opportunities, and connect with alumni employers.
+
+
+
+5. Alumni Directory
+
+Searchable Database: Find peers using filters like graduation year, department, or industry.
+
+
+
+6. Success Story Tracking
+
+Recognition Hub: Showcase alumni achievements and inspire current students through notable stories and milestones.
+
+
+
+7. Events and Reunions
+
+Organizational Tools: Seamless event announcements, RSVPs, and management to boost participation in alumni-led initiatives.
+
+
+
+8. Feedback and Surveys
+
+Interactive Input: Collect alumni feedback to refine association activities and identify evolving needs.
+
+
+
+
+
+---
+
+
+
+
+
+
+---
+
 
 
 ## Proposed Solution / Architecture Diagram
+
+![Screenshot 2024-11-30 163730](https://github.com/user-attachments/assets/a030548a-ee6a-47b0-aa90-a0bd28969ae4)
 
 
 ## Use Cases
 
 
-## Technology Stack
+![Screenshot 2024-11-30 185804](https://github.com/user-attachments/assets/9ef26ff5-334e-47b7-876e-5902bb697edb)
 
+## Technology Stack
+1.Vue.js
+2.MongoDB
+3.GraphQL
 
 ## Dependencies
-
+1.Docker: For Containerization
+2.PM2:For process management
+3.CI/CD Tools:Plugins for GitHub Actions,Jenkins,or CircleCl
